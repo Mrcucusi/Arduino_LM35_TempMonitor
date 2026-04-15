@@ -76,6 +76,11 @@ Arduino_LM35_TempMonitor/
 ---
 
 ## 7. Ghi chú
+## 👤 Tác giả
+
+**Bùi Văn Đồng**  
+🔗 GitHub: https://github.com/mrcucusi  
+🌐 Website: https://mrcucusi.github.io
 
 * Dữ liệu JSON giúp dễ dàng tích hợp với web/app
 * Có thể mở rộng thêm nhiều cảm biến khác

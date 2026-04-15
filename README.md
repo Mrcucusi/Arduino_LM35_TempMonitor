@@ -70,7 +70,7 @@ Arduino_LM35_TempMonitor/
 
 | Họ tên          | Vai trò             |
 | --------------- | ------------------- |
-| Bùi Văn Đông    | SV A (Owner)        |
+| Bùi Văn Đồng    | SV A (Owner)        |
 | (Tài khoản phụ) | SV B (Collaborator) |
 
 ---
